@@ -1,0 +1,280 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "UltraBOOST",
+      "image": "product_1.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 20,
+      "sale": 12,
+      "stock": 0,
+      "checkStock": true
+    },
+    {
+      "id": 2,
+      "name": "Tarther Blast",
+      "image": "product_2.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 60,
+      "sale": 0,
+      "stock": 0,
+      "checkStock": false
+    },
+    {
+      "id": 3,
+      "name": "Shoes MT",
+      "image": "product_3.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 40,
+      "sale": 0,
+      "stock": 47,
+      "checkStock": false
+    },
+    {
+      "id": 4,
+      "name": "Running Sole",
+      "image": "product_4.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 30,
+      "sale": 10,
+      "stock": 44,
+      "checkStock": false
+    },
+    {
+      "id": 5,
+      "name": "Gel-Lyte Og",
+      "image": "product_5.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 42,
+      "sale": 0,
+      "stock": 43,
+      "checkStock": false
+    },
+    {
+      "id": 6,
+      "name": "Rio Branco",
+      "image": "product_6.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 51,
+      "sale": 5,
+      "stock": 0,
+      "checkStock": true
+    },
+    {
+      "id": 7,
+      "name": "Chuck 70",
+      "image": "product_7.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 23,
+      "sale": 0,
+      "stock": 42,
+      "checkStock": false
+    },
+    {
+      "id": 8,
+      "name": "Chuck Sneaker",
+      "image": "product_8.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 33,
+      "sale": 0,
+      "stock": 47,
+      "checkStock": false
+    },
+    {
+      "id": 9,
+      "name": "Cloudaway",
+      "image": "product_9.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 43,
+      "sale": 0,
+      "stock": 46,
+      "checkStock": false
+    },
+    {
+      "id": 10,
+      "name": "Cloudaway ",
+      "image": "product_10.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 54,
+      "sale": 0,
+      "stock": 49,
+      "checkStock": false
+    },
+    {
+      "id": 11,
+      "name": "Cloudnova ",
+      "image": "product_11.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 45,
+      "sale": 0,
+      "stock": 50,
+      "checkStock": false
+    },
+    {
+      "id": 12,
+      "name": "Condor",
+      "image": "product_12.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 40,
+      "sale": 0,
+      "stock": 43,
+      "checkStock": false
+    }
+  ],
+  "collections": [
+    {
+      "name": "New Arrivals",
+      "image": "category_3.jpg"
+    },
+    {
+      "name": "Basic Collection",
+      "image": "category_1.jpg"
+    },
+    {
+      "name": "Sport Shoes",
+      "image": "category_2.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "username": "Vịnh Nguyễn Quang",
+      "email": "giusevinh12@gmail.com",
+      "phone": "817310298",
+      "address": "42 Tú Xương",
+      "billDate": "2022-12-02",
+      "productOrder": [
+        {
+          "id": 7,
+          "name": "Chuck 70",
+          "image": "product_7.jpg",
+          "description": "They are wherein heaven seed hath nothing",
+          "price": 23,
+          "sale": 0,
+          "stock": 43,
+          "checkStock": false,
+          "quantity": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "username": "Vịnh Nguyễn Quang",
+      "email": "giusevinh12@gmail.com",
+      "phone": "817310298",
+      "address": "42 Tú Xương",
+      "billDate": "2022-12-10",
+      "productOrder": [
+        {
+          "id": 7,
+          "name": "Chuck 70",
+          "image": "product_7.jpg",
+          "description": "They are wherein heaven seed hath nothing",
+          "price": 23,
+          "sale": 0,
+          "stock": 42,
+          "checkStock": false,
+          "quantity": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "username": "Vịnh Nguyễn Quang",
+      "email": "giusevinh12@gmail.com",
+      "phone": "817310298",
+      "address": "Kiên Giang",
+      "billDate": "2022-11-11",
+      "productOrder": [
+        {
+          "id": 5,
+          "name": "Gel-Lyte Og",
+          "image": "product_5.jpg",
+          "description": "They are wherein heaven seed hath nothing",
+          "price": 42,
+          "sale": 0,
+          "stock": 43,
+          "checkStock": false,
+          "quantity": 4
+        },
+        {
+          "id": 2,
+          "name": "Tarther Blast",
+          "image": "product_2.jpg",
+          "description": "They are wherein heaven seed hath nothing",
+          "price": 60,
+          "sale": 0,
+          "stock": 0,
+          "checkStock": true,
+          "quantity": 2
+        },
+        {
+          "id": 3,
+          "name": "Shoes MT",
+          "image": "product_3.jpg",
+          "description": "They are wherein heaven seed hath nothing",
+          "price": 40,
+          "sale": 0,
+          "stock": 47,
+          "checkStock": false,
+          "quantity": 2
+        }
+      ],
+      "id": 3
+    },
+    {
+      "username": "Vịnh Nguyễn Quang",
+      "email": "giusevinh12@gmail.com",
+      "phone": "0817310298",
+      "address": "An Giang",
+      "billDate": "2022-09-11",
+      "productOrder": [
+        {
+          "id": 9,
+          "name": "Cloudaway",
+          "image": "product_9.jpg",
+          "description": "They are wherein heaven seed hath nothing",
+          "price": 43,
+          "sale": 0,
+          "stock": 46,
+          "checkStock": false,
+          "quantity": 4
+        },
+        {
+          "id": 12,
+          "name": "Condor",
+          "image": "product_12.jpg",
+          "description": "They are wherein heaven seed hath nothing",
+          "price": 40,
+          "sale": 0,
+          "stock": 43,
+          "checkStock": false,
+          "quantity": 4
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "wishList": [
+    {
+      "email": "vinh11@gmail.com",
+      "favoriteProduct": [
+        {
+          "isFavorite": true,
+          "iditem": 4
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "comment": [
+    {
+      "displayName": "Vịnh Nguyễn Quang",
+      "idProduct": "7",
+      "commentContent": "aaa",
+      "date": "29-10-2022 ",
+      "rating": 4,
+      "avata": "https://lh3.googleusercontent.com/a/ALm5wu1ua4V4l8yQZFmpbFzLfFfdZMeieGilIQRCHCmP=s96-c",
+      "id": 1
+    }
+  ]
+}
