@@ -119,6 +119,16 @@
       "sale": 0,
       "stock": 43,
       "checkStock": false
+    },
+    {
+      "id": 13,
+      "name": "UltraBOOST",
+      "image": "product_1.jpg",
+      "description": "They are wherein heaven seed hath nothing",
+      "price": 20,
+      "sale": 12,
+      "stock": 0,
+      "checkStock": true
     }
   ],
   "collections": [
