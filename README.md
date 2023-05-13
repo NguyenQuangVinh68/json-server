@@ -3,6 +3,6 @@ A template to deploy JSON Server to Vercel, allow you to run fake REST API onlin
 
 Demo from this repository:
 
-https://json-server.app](https://json-server-weld-omega.vercel.app/
+https://json-server-weld-omega.vercel.app/
 
-https://json-server.app/api/products](https://json-server-weld-omega.vercel.app/products
+https://json-server-weld-omega.vercel.app/products
